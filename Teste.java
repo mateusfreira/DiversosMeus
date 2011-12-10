@@ -1,4 +1,4 @@
-package com.teknisa.setforms.mobile.communication.impl;
+package br.com.mateusfreira.connection.generic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
