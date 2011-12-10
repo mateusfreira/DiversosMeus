@@ -17,8 +17,6 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 
-import com.teknisa.setforms.mobile.communication.exception.SetFormsConnectionException;
-
 public class HttpRequest {
 	static HttpClient client = new DefaultHttpClient();
 
