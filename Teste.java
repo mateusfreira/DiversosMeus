@@ -48,7 +48,7 @@ public class HttpRequest {
 			}
 			return sb.toString();
 		} catch (Exception e) {
-			throw new SetFormsConnectionException(e);
+			throw e;
 		}
 	}
 
